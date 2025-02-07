@@ -1,16 +1,36 @@
-## Hi there 👋
+![gif](programming.gif)
 
-<!--
-**ataatallah/ataatallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Hey, I'm Joel!** 👋
 
-Here are some ideas to get you started:
+I'm a FrontEnd developer building with React, React Native and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Documenting building products on [**Twitter**](https://twitter.com/codingknite)
+- 📫 Reach me on [**Twitter**](https://twitter.com/codingknite) or mail me at **itsjoelpm@gmail.com**
+
+## Past Articles ✍️
+
+- [Learn TypeScript Basics in this Beginner's Guide](https://www.freecodecamp.org/news/learn-typescript-basics/)
+- [Functional Programming in JavaScript Explained in Plain English](https://www.freecodecamp.org/news/functional-programming-in-javascript-explained-in-plain-english/)
+- [How to Understand Recursion in JavaScript](https://www.freecodecamp.org/news/understanding-recursion-in-javascript/)
+- [How to use tutorials effectively to learn how to code](https://dev.to/codingknite/how-to-use-tutorials-to-learn-code-effectively-377f)
+- [Data Types and Operators in JavaScript: Everything You Need To Know](https://dev.to/codingknite/data-types-and-operators-in-javascript-everything-you-need-to-know-ah1)
+
+## Find me around the web 🌍
+
+- [**Website**](https://codingknite.com)
+- [**Twitter**](https://twitter.com/codingknite)
+- [**LinkedIn**](https://www.linkedin.com/in/joelmugalu)
+
+********
+
+  
+<details>
+  <summary>📊 Github Stats</summary>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+
+</details>
+
+  #### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg) 
